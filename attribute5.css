@@ -1,0 +1,21 @@
+input[type="text"]{
+    color:blueviolet;
+    background-color: aquamarine;
+}
+input[type="password"]{
+    background-color: cyan;
+}
+/* a[href="https://google.co.in"]{
+    color: darkorange;
+} */
+
+/*  * this means woh sare href jis ke andar google aa rahe hai */
+a[href *="google"]{
+    color: darkorange;
+}
+a[href ^="https"]{
+    color: deeppink;
+}
+a[href $=".com"]{
+    color: black;
+}

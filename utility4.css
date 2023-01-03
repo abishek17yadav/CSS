@@ -1,0 +1,12 @@
+body{
+    font-family: Arial;
+}
+.text-red{
+    color: red;
+}
+.text-green{
+    color: green;
+}
+.bg-back{
+    background-color: rgb(216, 214, 112);
+}

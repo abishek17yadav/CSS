@@ -1,0 +1,11 @@
+h1{
+    color: gold;
+}
+/* class is given 2nd place */
+.h1class{
+    color: limegreen;
+}
+/* id are given 1st place */
+#h1id{
+    color: blue;
+}
